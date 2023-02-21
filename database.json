@@ -1,0 +1,58 @@
+{
+  "employes": [
+    {
+      "id": 1,
+      "name": "Pala irén",
+      "city": "Szeged",
+      "salary": 320000
+    },
+    {
+      "id": 2,
+      "name": "Muki",
+      "city": "Szeged",
+      "salary": 320000
+    },
+    {
+      "id": 3,
+      "name": "Pista",
+      "city": "Szeged",
+      "salary": 320000
+    },
+    {
+      "id": 4,
+      "name": "Géza",
+      "city": "Szeged",
+      "salary": 320000
+    },
+    {
+      "id": 5,
+      "name": "Pala",
+      "city": "Szeged",
+      "salary": 320000
+    },
+    {
+      "id": 7,
+      "name": "Palatető",
+      "city": "Szeged",
+      "salary": 320000
+    },
+    {
+      "id": 8,
+      "name": "Pala Károly",
+      "city": "Szeged",
+      "salary": 320000
+    },
+    {
+      "name ": "Katica",
+      "city": "Budapet",
+      "salary": 550000,
+      "id": 9
+    },
+    {
+      "name ": "Aladár",
+      "city": "Pécs",
+      "salary": 365000,
+      "id": 10
+    }
+  ]
+}
